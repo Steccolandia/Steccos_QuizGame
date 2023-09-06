@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "769827441807",
+    "firebase_url": "https://quiz-game-1cbf2-default-rtdb.firebaseio.com",
+    "project_id": "quiz-game-1cbf2",
+    "storage_bucket": "quiz-game-1cbf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769827441807:android:63b5111a0bc4fe069574fa",
+        "android_client_info": {
+          "package_name": "com.example.quizgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769827441807-63anmni6u225qqlbqkabjehr8g4pdq0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdvkUdNrmWHKho2dHyIQaXcQnobNJcti4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769827441807-63anmni6u225qqlbqkabjehr8g4pdq0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769827441807:android:5d169ae2771951e79574fa",
+        "android_client_info": {
+          "package_name": "com.quizgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769827441807-vppdn0mragmbapfskvlguc6i77skga5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quizgame",
+            "certificate_hash": "1553e7a8108b3183b29c4e4c91ccb8a6bd22587d"
+          }
+        },
+        {
+          "client_id": "769827441807-63anmni6u225qqlbqkabjehr8g4pdq0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdvkUdNrmWHKho2dHyIQaXcQnobNJcti4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769827441807-63anmni6u225qqlbqkabjehr8g4pdq0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
